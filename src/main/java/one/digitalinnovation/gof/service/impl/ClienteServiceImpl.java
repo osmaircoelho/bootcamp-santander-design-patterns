@@ -1,15 +1,17 @@
 package one.digitalinnovation.gof.service.impl;
 
+import io.swagger.v3.oas.annotations.servers.Server;
 import one.digitalinnovation.gof.model.Cliente;
 import one.digitalinnovation.gof.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 /**
  *  Implementacao da <b>Strategy</b> {@link one.digitalinnovation.gof.service.ClienteService},
  *  a qual pode ser injetada pelo Spring (via {@link Autowired}). Com isso, como essa classe he um
  *  {@link one.digitalinnovation.gof.service}, ela sera tratada como um <b>Singleton</b>
  */
-
+@Service
 public class ClienteServiceImpl implements ClienteService {
 
     //TODO Singleton: Injetar os componentes do Spring com @Autowired.
