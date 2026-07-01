@@ -368,8 +368,12 @@ Este projeto está sob a licença **MIT**. Veja o arquivo `LICENSE` para mais de
 
 **Desenvolvido com ❤️ por [Osmair Coelho](mailto:osmair.coelho@gmail.com)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/osmaircoelho)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/osmaircoelho)
+<a href="https://www.linkedin.com/in/osmaircoelho" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn">
+</a>
+<a href="https://github.com/osmaircoelho" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" alt="GitHub">
+</a>
 
 ---
 
